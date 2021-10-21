@@ -33,8 +33,8 @@ My interests include: <b>Algorithms, Game Theory, Statistics, Machine Learning, 
 
 # :bar_chart: GitHub Stats
 
-[![Camilla Di Martino's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario&hide=prs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/alessandro-maccario/github-readme-stats) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&theme=vue-dark&layout=compact"/>
+<-- [![Camilla Di Martino's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario&hide=prs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/alessandro-maccario/github-readme-stats) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&theme=vue-dark&layout=compact"/> -->
 
 # :computer: Software & Languages known
 
